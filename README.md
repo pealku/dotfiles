@@ -1,9 +1,9 @@
 # Usage
-Transfer files to home directory.
+Transfer files to home directory, configure the i3 config file to your liking.
 Refresh i3.
 
 # Fonts
 Refresh fonts with "fc-cache -fv".
 
 # Bumblebee
-Also, make sure to change "git", "github" to ".git", ".github".
+Download [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) manually to your linux distro.
