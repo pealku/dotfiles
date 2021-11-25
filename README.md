@@ -1,2 +1,2 @@
-# dotfiles
-My i3 dotfiles.
+# Usage
+Transfer files to home directory.
