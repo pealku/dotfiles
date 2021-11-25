@@ -1,0 +1,2 @@
+# terminal info
+neofetch
